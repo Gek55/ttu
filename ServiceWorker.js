@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project (5)-0.1";
 const contentToCache = [
-    "Build/Build Brotli chatie decopmpresion Speed.loader.js",
-    "Build/Build Brotli chatie decopmpresion Speed.framework.js.unityweb",
-    "Build/Build Brotli chatie decopmpresion Speed.data.unityweb",
-    "Build/Build Brotli chatie decopmpresion Speed.wasm.unityweb",
+    "Build/Build Brotli chatie decopmpresion S Test.loader.js",
+    "Build/Build Brotli chatie decopmpresion S Test.framework.js.unityweb",
+    "Build/Build Brotli chatie decopmpresion S Test.data.unityweb",
+    "Build/Build Brotli chatie decopmpresion S Test.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
