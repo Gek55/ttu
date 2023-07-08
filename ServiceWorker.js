@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project (5)-0.1";
 const contentToCache = [
-    "Build/Build Gzip chatie.loader.js",
-    "Build/Build Gzip chatie.framework.js.unityweb",
-    "Build/Build Gzip chatie.data.unityweb",
-    "Build/Build Gzip chatie.wasm.unityweb",
+    "Build/Disl size Not decopmpression Disabled.loader.js",
+    "Build/Disl size Not decopmpression Disabled.framework.js",
+    "Build/Disl size Not decopmpression Disabled.data",
+    "Build/Disl size Not decopmpression Disabled.wasm",
     "TemplateData/style.css"
 
 ];
